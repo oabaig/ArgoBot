@@ -6,3 +6,4 @@ This is a small project that I am working on for my Argonaut discord server. Mor
 ## Idea List
 - Meeting Scheduler
 - List Out ToDo for Developers
+- Github Issue List Tracker
